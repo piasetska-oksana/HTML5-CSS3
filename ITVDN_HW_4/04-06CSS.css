@@ -1,0 +1,12 @@
+div{
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+button{
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    border: none;
+
+}

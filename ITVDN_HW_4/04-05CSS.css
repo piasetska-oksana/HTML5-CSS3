@@ -1,0 +1,11 @@
+div{
+    background-color: lightgrey;
+    padding: 10px;
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+    border-bottom: 2px solid grey;
+}
+
+.first{
+    border: 2px solid grey;
+}
