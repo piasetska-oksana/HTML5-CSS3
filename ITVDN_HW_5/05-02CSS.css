@@ -1,0 +1,12 @@
+.parent{
+    border: 2px solid black;
+    padding: 10px;
+    width: 350px;
+}
+
+.child{
+    background-color: lightgrey;
+    width: 100px;
+    padding: 10px;
+    margin-left: auto;
+}

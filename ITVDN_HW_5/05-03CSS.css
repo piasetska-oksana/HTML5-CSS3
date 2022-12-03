@@ -1,0 +1,26 @@
+.parent{
+    background-color: gold;
+}
+
+.child{
+    display: inline-block;
+    margin: 30px 20px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.facebook{
+    background-color: blue;
+}
+
+.youtube{
+    background-color: red;
+}
+
+.instagram{
+    background-color: pink;
+}
+
+.twitter{
+    background-color: aqua;
+}
