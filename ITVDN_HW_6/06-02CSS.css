@@ -1,0 +1,16 @@
+div{
+    background-color: orange;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+}
+
+span{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+a{
+    color: black;
+}

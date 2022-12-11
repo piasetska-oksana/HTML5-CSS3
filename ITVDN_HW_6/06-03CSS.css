@@ -1,0 +1,53 @@
+.parent{
+    background-color: gray;
+    width: 100%;
+    text-align: right;
+}
+
+div{
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    height: 100px;
+    color: white;
+}
+
+.child{
+    line-height: 100px;
+    margin: 0px 15px;
+    white-space: pre;
+}
+
+button{
+    background-color: orange;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 20px;
+}
+
+.img{
+    text-align: left;
+    padding-top: 10px;
+    margin-right: 430px;
+}
+
+.button{
+    margin-right: 40px;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    font-size: 40px;
+    font-family: Arial;
+}
+
+p{
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: Arial;
+    color: darkslategrey;
+}

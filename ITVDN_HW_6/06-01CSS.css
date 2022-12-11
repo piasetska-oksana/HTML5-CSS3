@@ -1,0 +1,45 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.post1{
+    word-spacing: 10px;
+}
+
+.post2{
+    letter-spacing: 10px;
+}
+
+.par1{
+    font-style: italic;
+    font-size: 30px;
+    background-color: greenyellow;
+}
+
+.par2{
+    font-weight: 900;
+    background-color: coral;
+}
+
+.par3{
+    background-color: aquamarine;
+    text-indent: 50px;
+}
+
+button{
+    width: 100px;
+    border: none;
+    line-height: 50px;
+    background-color: lightgrey;
+}
+
+.lastbutton{
+    text-align: right;
+}
