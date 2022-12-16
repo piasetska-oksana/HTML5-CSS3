@@ -1,0 +1,30 @@
+.parent{
+    background-color: slategray;
+    display: flex;
+    height: 400px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.child{
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.first{
+    margin-left: 30%;
+}
+
+.second{
+    margin-right: 30%;
+}

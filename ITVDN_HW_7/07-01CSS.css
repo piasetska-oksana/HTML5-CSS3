@@ -1,0 +1,18 @@
+div{
+    background-color: lightgrey;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    font-family: Arial;
+    padding: 20px;
+}
+
+h1{
+    width: 20%;
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+p{
+    width: 70%;
+}

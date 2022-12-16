@@ -1,0 +1,22 @@
+.parent{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.investor{
+    background-color: dimgray;
+}
+
+.child{
+padding: 0px 40px;
+line-height: 100px;
+}

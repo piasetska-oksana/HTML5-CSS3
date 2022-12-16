@@ -1,0 +1,21 @@
+.parent{
+    width: 1200px;
+    border: 2px solid lightgrey;
+    display: flex;
+    margin: 10px auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.child{
+    box-shadow: 2px 3px 3px 2px lightgrey;
+    width: 32%;
+    white-space: pre-line;
+    padding: 15px 5px 10px 5px;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+}
