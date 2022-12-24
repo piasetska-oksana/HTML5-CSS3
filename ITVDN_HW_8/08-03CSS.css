@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+}
+
+.parent{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    background-color: blue;    
+}
+
+div div{
+    padding: 15px;
+}
+
+.parent a{
+    color: white;
+    text-decoration: none;
+}
+
+.books{
+    background-color: aqua;
+}
+
+.table{
+    width: 100%;
+    background-color: darkorange;    
+}
+
+table{
+    border-spacing: 10px;
+}
+
+td{
+    background-color: lightgray;
+    padding: 11px 15px;
+}
+
+.table a{
+    color: black;
+    text-decoration: none;
+}
