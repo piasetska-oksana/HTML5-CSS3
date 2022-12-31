@@ -1,0 +1,45 @@
+html{
+    color: white;
+    height: 100%;
+    background-image: url(dz/затемненый.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+}
+
+div div{
+    width: 20%;
+    text-align: justify;
+    margin-right: 40px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 150px;
+}
+
+.program{
+    background-image: url(dz/1.png);
+}
+
+.process{
+    background-image: url(dz/2.png);
+}
+
+.conditions{
+    background-image: url(dz/3.png);
+}
+
+h2{
+    background-repeat: no-repeat;
+    padding-left: 70px;
+    box-sizing: border-box;
+    background-size: 50px 100%;
+    margin-bottom: 40px;
+}

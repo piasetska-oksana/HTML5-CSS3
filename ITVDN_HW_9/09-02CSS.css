@@ -1,0 +1,36 @@
+.parent{
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+    justify-content: space-around;
+    padding: 20px 10px;
+    box-sizing: border-box;
+}
+
+div div{
+    width: 47%;
+    height: 380px;
+    border: 2px solid lightgray;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-position-x: center;
+    background-position-y: 20px;
+    background-size: 170px 190px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.HTML{
+    background-image: url(dz/HTML5.png);
+    text-align: center;
+}
+
+.CSS{
+    background-image: url(dz/CSS3.png);
+    padding-bottom: 70px;
+}

@@ -1,0 +1,18 @@
+body{
+    background-image: url(dz/HTML5.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 40px;
+    background-size: 230px 250px;
+    background-attachment: fixed;
+    overflow-y: scroll;
+    padding-bottom: 150px;
+}
+
+div{
+    width: 80%;
+    text-align: justify;
+    padding: 20px;
+    border: 2px solid gray;
+    box-sizing: border-box;
+}
